@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: phonebook.clarusway.us
+  - host: phonebook.able2.click
     http:
       paths:
       - path: /
